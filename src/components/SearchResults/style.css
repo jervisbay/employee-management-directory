@@ -1,0 +1,30 @@
+ul.search-results img {
+  margin: 0 auto;
+}
+
+#result-row {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: dotted 1px gray;    
+}
+
+.header-row {
+  background-color: lightgray;
+  height: 70px;
+  border-top: solid black 1px;
+  border-bottom: solid black 1px;
+}
+
+#header-col {
+  display: flex;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.result-col {
+  vertical-align: middle;
+  padding-top: 20px;
+}
